@@ -17,4 +17,4 @@ var typekit = function(kidId) {
   s.parentNode.insertBefore(tk, s);
 };
 
-modul.exports = typekit;
+return typekit;
